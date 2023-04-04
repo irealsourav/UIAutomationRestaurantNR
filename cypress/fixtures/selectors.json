@@ -1,0 +1,6 @@
+{
+  "cuisineSelectorRestaurentPage": "[data-qa=\"cuisine\"]",
+  "showMinimumOrderValueRestauRantPage": "[data-qa=\"mov-indicator-content\"]",
+  "filterByOffers": "[value=\"offers\"]",
+  "searchResults": "[data-qa=\"search-results\"]"
+}
