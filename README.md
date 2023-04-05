@@ -7,8 +7,8 @@ running codebase.
 
 ##Approach
 ### I have used Custom commands based approach
-I created custom commands based on there presence in the pages that I am navigating to.
-I created three test cases :: filter by minimum order, search by cuisine "Italian", search only offered restaurants.
+### I created custom commands based on there presence in the pages that I am navigating to.
+### I created three test cases :: filter by minimum order, search by cuisine "Italian", search only offered restaurants.
 I created Four custom commands files :: filterPageOperations.ts, RestaurantAddressSearch.ts,searchRestaurantByPlaceOrItem.ts,ViewRestaurants.ts.
 Also created two data files inside fixtures section :: testData.json, selectors.json
 For counting the restaurants name I used a normal generic approach and recurse approach (using cypress-recurse library)
