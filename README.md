@@ -1,8 +1,8 @@
 # UIAutomationRestaurantNR
 
 ## This is a cypress code base for automating few scenarios related to search and filtering.
-### Note:: This repository is not in running state due to an error 403 forbidden error in cypress browser while accessing the baseUrl :: "https://www.lieferando.de/en" .
-### There is some code running to detect automation library and block them.I tried to make this codebase as robust as possible ,consider this as exact replica /prototype of a running codebase.
+#### Note:: This repository is not in running state due to an error 403 forbidden error in cypress browser while accessing the baseUrl:: "https://www.lieferando.de/en" .
+#### There is some code running to detect automation library and block them.I tried to make this codebase as robust as possible ,consider this as exact replica /prototype of a running codebase.
 
 ## Approach
 #### I created custom commands based on there presence in the pages that I am navigating to.
